@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/About.png</file>
+        <file>ico/create.png</file>
+        <file>ico/Exit.png</file>
+        <file>ico/open.png</file>
+        <file>ico/save.png</file>
+        <file>ico/WELDING_Icon.ico</file>
+        <file>ico/Bubble.png</file>
+        <file>ico/delete.png</file>
+    </qresource>
+</RCC>
