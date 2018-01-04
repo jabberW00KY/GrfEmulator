@@ -26,6 +26,7 @@ private:
     void unsetEditedInTitle();
     bool isFileEdited();
     void createNewFile();
+    void addZapisToTable(Zapis &z);
 
 private:
     Ui::Emulator *ui;
